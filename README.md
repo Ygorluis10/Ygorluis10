@@ -1,11 +1,8 @@
 ## Opa, Bem-vindo ao meu repositório, sou o Ygor Luis!
 
-🔭 Trabalho como estagiário na Polícia Civil.
+🔭 Atualmente estudante da Ciências da Computação na Faculdade (Unifran), estou no primeiro ano, possuo diploma tecnico em Eletrônica. Minhas principais linguagens são: Python, JavaScript e HTML. Eu estudo e me atualizo na área da tecnologia constantemente. 
 
-😄 Estudando Python 
-Java 
-HTML
-C++
+😄 Estudando Python, Java, HTML, C++
 
 ⚡Cursando - Ciências da Computação - UNF
 
