@@ -1,13 +1,27 @@
 ## Opa, Bem-vindo ao meu repositório, sou o Ygor Luis!
 
-🔭 Atualmente estudante da Ciências da Computação na Faculdade (Unifran), estou no primeiro ano, possuo diploma tecnico em Eletrônica. Minhas principais linguagens são: Python, JavaScript e C++. Eu estudo e me atualizo na área da tecnologia constantemente. 
+🎓 Estudante de Ciência da Computação e desenvolvedor em formação, Faculdade (Unifran).Estou construindo minha jornada na programação através de projetos e estudos práticos, explorando diferentes tecnologias e buscando transformar o que aprendo em aplicações reais.
 
+🚀 Atualmente estudando:
+🐍 Python
+🌐 HTML & CSS
+⚡ JavaScript
+🗄️ Banco de Dados / SQL
+🔀 Git & GitHub
+🤖 Inteligência Artificial
 😄 Estudando Python, Java, C++, HTML
 
-⚡Cursando - Ciências da Computação - UNF
+🛠️ O que você encontrará por aqui
 
- Programação e Tecnologia!
+Projetos acadêmicos, exercícios, experimentos e aplicações desenvolvidas durante minha evolução na programação.
 
+Uso este espaço para documentar meu aprendizado, colocar ideias em prática e acompanhar minha evolução como desenvolvedor.
+
+🎯 Meu objetivo
+
+Construir uma base sólida em programação, desenvolver projetos cada vez mais completos e, principalmente, estar preparado para transformar conhecimento em soluções que gerem valor no mundo real.
+
+Aprender. Construir. Errar. Melhorar. Repetir. 🚀
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
