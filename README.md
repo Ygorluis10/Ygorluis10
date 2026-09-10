@@ -18,6 +18,7 @@ Class Desenvolvedor:
     Explorando diferentes tecnologias e buscando transformar o que aprendo em aplicações reais.
 
     Atualmente estudando:
+
    🐍 Python
 
    🌐 HTML & CSS
