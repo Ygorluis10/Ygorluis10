@@ -4,21 +4,26 @@
 
 🚀 Atualmente estudando:
 🐍 Python
+
 🌐 HTML & CSS
+
 ⚡ JavaScript
+
 🗄️ Banco de Dados / SQL
+
 🔀 Git & GitHub
+
 🤖 Inteligência Artificial
+
 😄 Estudando Python, Java, C++, HTML
 
+
 🛠️ O que você encontrará por aqui
-
-Projetos acadêmicos, exercícios, experimentos e aplicações desenvolvidas durante minha evolução na programação.
-
-Uso este espaço para documentar meu aprendizado, colocar ideias em prática e acompanhar minha evolução como desenvolvedor.
+- Projetos acadêmicos, exercícios, experimentos e aplicações desenvolvidas durante minha evolução na programação.
+- Uso este espaço para documentar meu aprendizado, colocar ideias em prática e acompanhar minha evolução como desenvolvedor.
+  
 
 🎯 Meu objetivo
-
 Construir uma base sólida em programação, desenvolver projetos cada vez mais completos e, principalmente, estar preparado para transformar conhecimento em soluções que gerem valor no mundo real.
 
 Aprender. Construir. Errar. Melhorar. Repetir. 🚀
