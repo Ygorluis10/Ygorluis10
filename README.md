@@ -12,6 +12,7 @@
 
 ```yaml
 Class Desenvolvedor:
+
     Nome: "Ygor Luis"
     Meu portfólio: 🎓 Estudante de Ciência da Computação e desenvolvedor em formação, Faculdade (Unifran).
     Estou construindo minha jornada na programação através de projetos e estudos práticos.
@@ -32,10 +33,6 @@ Class Desenvolvedor:
    🤖 Inteligência Artificial
 
    😄 Estudando Python, Java, C++, HTML
-
-
-
-    
 ```
 🎯 Meu objetivo
 Construir uma base sólida em programação, desenvolver projetos cada vez mais completos e, principalmente, estar preparado para transformar conhecimento em soluções que gerem valor no mundo real.
